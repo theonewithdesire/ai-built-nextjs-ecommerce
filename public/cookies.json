@@ -1,0 +1,158 @@
+[
+  {
+    "name": "banana caramel",
+    "description": "A fluffy banana bread cookie topped with a swirl of caramel cream cheese frosting and a drizzle of caramel.",
+    "image": "/src/assets/cookie-1.png",
+    "bgColor": "#f6cc44",
+    "rating": "4.5",
+    "amount": "2032",
+    "nutrition": {
+      "calories": "350",
+      "fat": "15g",
+      "saturatedFat": "9g",
+      "transFat": "0g",
+      "cholesterol": "50mg",
+      "sodium": "200mg",
+      "carbohydrates": "45g",
+      "dietaryFiber": "2g",
+      "sugars": "30g",
+      "protein": "5g"
+    },
+    "allergy": ["Milk", "Egg", "Soy"],
+    "topReviews": {
+      "1": "Please put this on the rotating menu it was SO GOOD",
+      "2": "I loved the lemon flavor, it was so refreshing",
+      "3": "I'm not a fan of cheesecake but this was amazing"
+    }
+  },
+  {
+    "name": "Red Velvet Chip",
+    "description": "A classic chocolate chip cookie with a crispy edge and a chewy center, loaded with semi-sweet chocolate chips.",
+    "image": "/src/assets/cookie-2.png",
+    "bgColor": "#8b1f18",
+    "rating": "2.5",
+    "amount": "2032",
+    "nutrition": {
+      "calories": "400",
+      "fat": "20g",
+      "saturatedFat": "12g",
+      "transFat": "0g",
+      "cholesterol": "60mg",
+      "sodium": "250mg",
+      "carbohydrates": "50g",
+      "dietaryFiber": "3g",
+      "sugars": "35g",
+      "protein": "6g"
+    },
+    "allergy": ["Milk", "Egg", "Soy", "Wheat"],
+    "topReviews": {
+      "1": "Please put this on the rotating menu it was SO GOOD",
+      "2": "I loved the lemon flavor, it was so refreshing",
+      "3": "I'm not a fan of cheesecake but this was amazing"
+    }
+  },
+  {
+    "name": "French Silk Pie",
+    "description": "A rich and creamy peanut butter cookie topped with a drizzle of chocolate and a sprinkle of sea salt.",
+    "image": "/src/assets/cookie-3.png",
+    "bgColor": "#fee181",
+    "rating": "3.5",
+    "amount": "2032",
+    "nutrition": {
+      "calories": "450",
+      "fat": "25g",
+      "saturatedFat": "10g",
+      "transFat": "0g",
+      "cholesterol": "55mg",
+      "sodium": "220mg",
+      "carbohydrates": "40g",
+      "dietaryFiber": "4g",
+      "sugars": "25g",
+      "protein": "8g"
+    },
+    "allergy": ["Milk", "Egg", "Soy", "Peanuts"],
+    "topReviews": {
+      "1": "Please put this on the rotating menu it was SO GOOD",
+      "2": "I loved the lemon flavor, it was so refreshing",
+      "3": "I'm not a fan of cheesecake but this was amazing"
+    }
+  },
+  {
+    "name": "Butter Cake",
+    "description": "A soft and chewy oatmeal cookie loaded with plump raisins and a hint of cinnamon.",
+    "image": "/src/assets/cookie-4.png",
+    "bgColor": "#f4ada6",
+    "rating": "4.0",
+    "amount": "2032",
+    "nutrition": {
+      "calories": "300",
+      "fat": "12g",
+      "saturatedFat": "6g",
+      "transFat": "0g",
+      "cholesterol": "40mg",
+      "sodium": "180mg",
+      "carbohydrates": "50g",
+      "dietaryFiber": "5g",
+      "sugars": "20g",
+      "protein": "4g"
+    },
+    "allergy": ["Milk", "Egg", "Soy", "Wheat"],
+    "topReviews": {
+      "1": "Please put this on the rotating menu it was SO GOOD",
+      "2": "I loved the lemon flavor, it was so refreshing",
+      "3": "I'm not a fan of cheesecake but this was amazing"
+    }
+  },
+  {
+    "name": "Milk Chocolate Chip",
+    "description": "A buttery cookie filled with white chocolate chips and crunchy macadamia nuts.",
+    "image": "/src/assets/cookie-5.png",
+    "bgColor": "#d67c28",
+    "rating": "4.8",
+    "amount": "2032",
+    "nutrition": {
+      "calories": "420",
+      "fat": "22g",
+      "saturatedFat": "11g",
+      "transFat": "0g",
+      "cholesterol": "65mg",
+      "sodium": "230mg",
+      "carbohydrates": "48g",
+      "dietaryFiber": "2g",
+      "sugars": "32g",
+      "protein": "5g"
+    },
+    "allergy": ["Milk", "Egg", "Soy", "Tree Nuts"],
+    "topReviews": {
+      "1": "Please put this on the rotating menu it was SO GOOD",
+      "2": "I loved the lemon flavor, it was so refreshing",
+      "3": "I'm not a fan of cheesecake but this was amazing"
+    }
+  },
+  {
+    "name": "Biscoff® Lava Cookie",
+    "description": "A decadent chocolate cookie with a fudgy center, loaded with chocolate chunks.",
+    "image": "/src/assets/cookie-6.png",
+    "bgColor": "#eaac5b",
+    "rating": "4.2",
+    "amount": "2032",
+    "nutrition": {
+      "calories": "500",
+      "fat": "28g",
+      "saturatedFat": "15g",
+      "transFat": "0g",
+      "cholesterol": "70mg",
+      "sodium": "240mg",
+      "carbohydrates": "55g",
+      "dietaryFiber": "3g",
+      "sugars": "40g",
+      "protein": "6g"
+    },
+    "allergy": ["Milk", "Egg", "Soy", "Wheat"],
+    "topReviews": {
+      "1": "Please put this on the rotating menu it was SO GOOD",
+      "2": "I loved the lemon flavor, it was so refreshing",
+      "3": "I'm not a fan of cheesecake but this was amazing"
+    }
+  }
+]
